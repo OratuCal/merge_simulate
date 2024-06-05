@@ -11,6 +11,10 @@ function f4() {
   console.log('f4');
 }
 
+function f6() {
+  console.log('f6');
+}
+
 function f5() {
   console.log('f5');
 }
