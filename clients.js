@@ -15,6 +15,11 @@ function f6() {
   console.log('f6');
 }
 
+function f7() {
+  console.log('f67');
+  console.log('one more line');
+}
+
 function f5() {
   console.log('f5');
 }
