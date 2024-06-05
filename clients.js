@@ -6,3 +6,7 @@ function f3() {
   console.log('f3');
   console.log('haha');
 }
+
+function f5() {
+  console.log('f5');
+}
